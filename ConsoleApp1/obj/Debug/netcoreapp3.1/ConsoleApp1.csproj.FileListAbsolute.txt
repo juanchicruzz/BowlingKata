@@ -1,0 +1,17 @@
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\BowlingKata.exe
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\BowlingKata.dll
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\bin\Debug\netcoreapp3.1\BowlingKata.pdb
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete

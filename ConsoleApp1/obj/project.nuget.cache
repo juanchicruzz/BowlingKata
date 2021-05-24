@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmwzcgDc/YrI9jV+gmaIcvKgjzIRQY9k5+rOuL0/2xhiL7r8xaYlKqlT5Lxjz9UtYai1sC2BZdJeFnMPlDfW4A==",
+  "success": true,
+  "projectFilePath": "E:\\MaquinaVieja\\UTN\\5to\\Metodologias Agiles\\PRACTICA\\Bowling\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

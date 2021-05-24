@@ -1,0 +1,13 @@
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csprojAssemblyReference.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfoInputs.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfo.cs
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csproj.CoreCompileInputs.cache
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.exe
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.deps.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.dev.json
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.dll
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.pdb
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.dll
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.pdb
+E:\MaquinaVieja\UTN\5to\Metodologias Agiles\PRACTICA\Bowling\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.genruntimeconfig.cache
